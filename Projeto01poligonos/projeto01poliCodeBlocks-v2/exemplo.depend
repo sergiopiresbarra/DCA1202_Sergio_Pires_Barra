@@ -1,0 +1,105 @@
+# depslib dependency file v1.0
+1538338771 source:c:\users\pc\desktop\concurso ufrn 2018\codebloks\exemplo\src\poligono.cpp
+	"poligono.h"
+	<iostream>
+	<cmath>
+
+1538333358 c:\users\pc\desktop\concurso ufrn 2018\codebloks\exemplo\include\poligono.h
+	"ponto.h"
+
+1538311810 c:\users\pc\desktop\concurso ufrn 2018\codebloks\exemplo\include\ponto.h
+
+1538312131 source:c:\users\pc\desktop\concurso ufrn 2018\codebloks\exemplo\src\ponto.cpp
+	<iostream>
+	<cmath>
+	"ponto.h"
+
+1538334419 source:c:\users\pc\desktop\concurso ufrn 2018\codebloks\exemplo\src\retangulo.cpp
+	"Retangulo.h"
+
+1538334419 c:\users\pc\desktop\concurso ufrn 2018\codebloks\exemplo\include\retangulo.h
+	"poligono.h"
+
+1538338980 source:c:\users\pc\desktop\concurso ufrn 2018\codebloks\exemplo\main.cpp
+	<iostream>
+	<cmath>
+	"retangulo.h"
+
+1538340172 source:e:\exemplo\main.cpp
+	<iostream>
+	<cmath>
+	"retangulo.h"
+
+1538334420 e:\exemplo\include\retangulo.h
+	"poligono.h"
+
+1538333360 e:\exemplo\include\poligono.h
+	"ponto.h"
+
+1538311812 e:\exemplo\include\ponto.h
+
+1538338772 source:e:\exemplo\src\poligono.cpp
+	"poligono.h"
+	<iostream>
+	<cmath>
+
+1538312132 source:e:\exemplo\src\ponto.cpp
+	<iostream>
+	<cmath>
+	"ponto.h"
+
+1538334420 source:e:\exemplo\src\retangulo.cpp
+	"Retangulo.h"
+
+1538345958 source:h:\exemplo\main.cpp
+	<iostream>
+	<cmath>
+	"retangulo.h"
+
+1538334420 h:\exemplo\include\retangulo.h
+	"poligono.h"
+
+1538333360 h:\exemplo\include\poligono.h
+	"ponto.h"
+
+1538311812 h:\exemplo\include\ponto.h
+
+1538338772 source:h:\exemplo\src\poligono.cpp
+	"poligono.h"
+	<iostream>
+	<cmath>
+
+1538312132 source:h:\exemplo\src\ponto.cpp
+	<iostream>
+	<cmath>
+	"ponto.h"
+
+1538334420 source:h:\exemplo\src\retangulo.cpp
+	"Retangulo.h"
+
+1538399918 source:c:\users\user19\downloads\dca1202_sergio_pires_barra-master\dca1202_sergio_pires_barra-master\projeto01poligonos\projeto01policodeblocks\main.cpp
+	<iostream>
+	<cmath>
+	"Retangulo.h"
+
+1538398206 c:\users\user19\downloads\dca1202_sergio_pires_barra-master\dca1202_sergio_pires_barra-master\projeto01poligonos\projeto01policodeblocks\include\retangulo.h
+	"Poligono.h"
+
+1538399710 c:\users\user19\downloads\dca1202_sergio_pires_barra-master\dca1202_sergio_pires_barra-master\projeto01poligonos\projeto01policodeblocks\include\poligono.h
+	"Ponto.h"
+
+1538379412 c:\users\user19\downloads\dca1202_sergio_pires_barra-master\dca1202_sergio_pires_barra-master\projeto01poligonos\projeto01policodeblocks\include\ponto.h
+
+1538399828 source:c:\users\user19\downloads\dca1202_sergio_pires_barra-master\dca1202_sergio_pires_barra-master\projeto01poligonos\projeto01policodeblocks\src\poligono.cpp
+	"Poligono.h"
+	<iostream>
+	<cmath>
+
+1538398206 source:c:\users\user19\downloads\dca1202_sergio_pires_barra-master\dca1202_sergio_pires_barra-master\projeto01poligonos\projeto01policodeblocks\src\ponto.cpp
+	<iostream>
+	<cmath>
+	"Ponto.h"
+
+1538379412 source:c:\users\user19\downloads\dca1202_sergio_pires_barra-master\dca1202_sergio_pires_barra-master\projeto01poligonos\projeto01policodeblocks\src\retangulo.cpp
+	"Retangulo.h"
+
